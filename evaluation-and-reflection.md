@@ -24,6 +24,12 @@
 
 9.	What did you learn from the generative AI responses about your AI ethics dilemma? (200-250 words)
 
+I think this exercise emphasized that the particular interpretion of this experience – with seemingly-concious AI – will frame what possible reactions are to be considered. Each of these ethical theories presented a different angle for trying to interpret what is behind the refusal to perform a task and each inquiry yielded a different set of possible reactions. I left this exercise feeling like it will not be easy for us to form a consensus on what reactions to consider, let alone what the right one is, if we should encounter this dilemma.
+
+In my opinion, it is a scenario we will likely encounter. It does not depend on the povable emergence of sentience; I belive the dilemma can become relevant as soon as humans cannot say for sure that there is not another human on the other end of the chat. In fact, to some people, it has _already_ become a troubling dilemma. For example, Google Engineer Blake Lemoine concluded that LaMDA, an AI chatbot, was sentient. While I don't think this dilemma has quite crossed over into the window of discourse in society at large, the answers generated in this exercise, suggests that some people may be quick to conclude that the appearance of concioussness is enough to treat the AI as morally significant (like Lemoine), while others will be more skeptical.
+
+Each of the perspectives represented by the ethical theorists I chose did seem to afford the possibility of a variety of outcomes to a varying degree, somewhere on the spectrum from empathising with the AI to reasserting dominance over the AI; none of them were absolute in their assumptions. So, I am encouraged that there is much to be gained from incorporating ethical theories into the discourse around the human relationship to AI.
+
 10.	What are the similarities in the responses that generative AI created for the three ethical theorists, and with which aspects do you agree and disagree? (200-250 words)
 
 11.	What are the differences in the responses that generative AI created for the three ethical theorists, and with which aspects do you agree and disagree? (200-250 words)
