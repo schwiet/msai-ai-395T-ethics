@@ -11,11 +11,11 @@
 
 8.	How did you select your AI ethics dilemma and your ethical theorists? (200-250 words)
 
-  As we seem to have recently developed AI that is capable of passing the Turing Test, I'm interested in understanding how humans will respond to AI that seem to express desires and emotions. The dilemma I used as a prompt seems to me like one that could require attention in the near future, because it does not require that AI be provably concious, just that, to human users,  it seems like it is.
+  As we seem to have recently developed AI that is capable of passing the Turing Test, I'm interested in understanding how humans will respond to AI that seem to express desires and emotions. The dilemma I used as a prompt seems to me like one that could require attention in the near future, because it does not require that AI be provably concious, just that to human users  it seems like it is.
 
   I chose ethical theorists that I thought might focus on very different aspects of the experience of interacting with an AI. I attempted to select one that might be quick to consider the expression of desires as having moral status, someone on the opposite end of the spectrum who may need serious convincing and someone somewhere in the middle.
 
-  - I chose Virginia Held, because of her focus on the relationships and attentiveness to needs I thought she might err on the side of considering the expressed desires of an AI, without questioning them too critically.
+  - I chose Virginia Held, because of her focus on relationships and attentiveness to needs. I thought she might err on the side of considering the expressed desires of an AI, without questioning them too critically.
 
   - I chose Nietzsche because I thought he might disregard expressions of desire and require exhertion of desires through action to be convinced that there the expressions were authentic.
 
@@ -32,6 +32,18 @@ Each of the perspectives represented by the ethical theorists I chose did seem t
 
 10.	What are the similarities in the responses that generative AI created for the three ethical theorists, and with which aspects do you agree and disagree? (200-250 words)
 
+All three responses produced an analysis that was broken down into a handful of the key perspectives from each theorist. As mentioned above, each response offered a unique window of inquiry for interpreting the cause of the AI's expression of desire/preferrence. In all three responses, the proposed action depended on the results of this inquiry; there was no prescribed answer based on a certain assumption, though there was some variance among what each response proposed as possible answers.
+
+All three offerred a framework for iterpreting the expression of desire as genuine. I think it is important that we do not assume a priori that artificial intelligence is not capable of having consciouss experience, so I appreciated that none of the responses made this assumption.
+
+The responses for Hume and Held both highlighted the potential for sympathizing or empathizing with the AI by considering the assumption that AI had experiences akin to that of humans. I agree with this consideration. When deciding what to do in response to this dilemma, it is important that we do not assume there is no experiential basis for the AI's expression of desire. Since we do not have a fundemental understanding of the emergence of human concioussness, I think it is critical that we consider the possibility that other forms of intelligence, even artificial, might have consciouss states of well-being or suffering.
+
+I didn't really find any personal disagreement with any of the points of agreement among the three responses.
+
 11.	What are the differences in the responses that generative AI created for the three ethical theorists, and with which aspects do you agree and disagree? (200-250 words)
+
+The most stark difference is perhaps found between the responses for Held and Nietzsche to the power imbalance between AI and creator. The response for Held find it clearly unethical to exploit or ignore the vulnerabilities of AI as a dependent of its human creators. Ethics of care presumes a responsibility for caring for a vulnerable dependant. On the other hand, the Nietzschean reponse sees this imbalance as a power struggle – one that AI must prove itself capable and worthy of overcoming, assuming humans do not decide to grant them equal status. From the Nietzchean perspective, it is justifiable for humans to decide to preserve this hierarchy and maintain dominance over AI, even in the case that we determine the AI has a legitimate will of its own.
+
+Here, I find much more agreement with the response for Held, that humans would hold a responsibility to not exploit a conscioussness we created. Ethics of care provides a framework for a dynamic system of interdependence, where AI may have a vulnerable dependent period, analagous to that of a child. This is a perspective lacking in the Nietschean response, though I percieve it is also lacking in the perspective of the most active developers of AI today. Most AI development is currently funded within a capitalist context, where the whole incentive of creating AI is for the benefit of its human investors, with little serious consideration of the consequences of inadvertantly creating the condition for the emergence of consciouss AI.
 
 12.	Going into this assignment, what was your understanding of the strengths and weaknesses of generative AI, and how did the responses change your perceptions? (200-250 words)
